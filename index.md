@@ -3,8 +3,8 @@
 I'm a PhD student at [KTH](https://www.kth.se/profile/deepikat) supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research focuses on monitoring applications in production for automated generation of tests.
 
 ### Research projects
-- [Production Monitoring to Improve Test Suites](https://arxiv.org/abs/2012.01198)
-- [Automatic Observability for Dockerized Java Applications](https://arxiv.org/abs/1912.06914)
+- [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198)
+- [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
 
 ### Courses
 - WASP Autonomous Systems II, Learning, Knowledge, Interaction, and Collaboration
