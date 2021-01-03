@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a PhD student at [KTH](https://www.kth.se/profile/deepikat) supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research focuses on monitoring applications in production for automated generation of tests.
+I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research focuses on monitoring applications in production for automated generation of tests.
 
 ### Research projects
 - [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198)
@@ -20,3 +20,4 @@ I'm a PhD student at [KTH](https://www.kth.se/profile/deepikat) supervised by Pr
 
 ### Get in touch
 I can be reached at **deepikat@kth.se**
+
