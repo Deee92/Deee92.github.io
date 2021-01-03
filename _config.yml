@@ -1,3 +1,4 @@
 logo: /assets/img/louvre.jpg
 theme: jekyll-theme-minimal
 title: Deepika Tiwari
+{% raw %}{% seo %}{% endraw %}
