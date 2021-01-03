@@ -5,6 +5,15 @@
 
 body {
   color: #000;
-  font-size: 1.2em;
+}
+
+a {
+font-weight: 800;
+}
+
+a:hover {
+  color: #188582;
+  text-decoration: none !important;
+  font-weight: 800;
 }
 
