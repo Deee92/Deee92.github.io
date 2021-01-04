@@ -4,11 +4,12 @@
 @import "{{ site.theme }}";
 
 body {
+  background-color: #f9f0ec;
   color: #000;
 }
 
 a {
-font-weight: 800;
+  font-weight: 800;
 }
 
 a:hover {

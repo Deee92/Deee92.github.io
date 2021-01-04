@@ -19,7 +19,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Thesis supervision: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
-I sometimes update the following
+I sometimes update the following:
 - [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
 - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
 
