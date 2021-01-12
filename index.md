@@ -16,7 +16,8 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Modeling and Solving Combinatorial Problems with MiniZinc
 
 ### Teaching
-- Thesis supervision: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
+- Teaching assistant: [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
+- Thesis supervisor: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
 I sometimes update the following:
