@@ -17,6 +17,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 
 ### Teaching
 - Teaching assistant: [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
+- Teaching assistant: [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
 - Thesis supervisor: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
