@@ -21,9 +21,10 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Thesis supervisor: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
-I sometimes update the following:
-- [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
-- [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
+- I sometimes update the following:
+  - [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
+  - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
+- A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) I wrote TestCon '19 
 
 ### Get in touch
 `deepikat@kth.se`
