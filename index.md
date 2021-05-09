@@ -7,6 +7,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
 
 ### Courses
+- Basic Communication and Teaching
 - WASP Autonomous Systems II, Learning, Knowledge, Interaction, and Collaboration
 - Computational Python
 - Introduction to High Performance Computing
@@ -18,6 +19,8 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 ### Teaching
 - Teaching assistant: [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
 - Teaching assistant: [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
+- Teaching assistant: [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
+- Teaching assistant: [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
 - Thesis supervisor: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
