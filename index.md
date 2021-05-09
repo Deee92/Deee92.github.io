@@ -17,11 +17,13 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Modeling and Solving Combinatorial Problems with MiniZinc
 
 ### Teaching
-- Teaching assistant: [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
-- Teaching assistant: [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
-- Teaching assistant: [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
-- Teaching assistant: [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
-- Thesis supervisor: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
+- Teaching assistant
+  - [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
+  - [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
+  - [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
+  - [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
+- Thesis supervisor
+  - [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) I wrote about TestCon '19
