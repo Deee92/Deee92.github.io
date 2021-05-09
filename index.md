@@ -26,6 +26,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - [A study of Pseudo-tested Methods in an Android Continuous Integration Environment](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
 
 ### More
+- We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) I wrote about TestCon '19
 - I sometimes update the following:
   - [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
