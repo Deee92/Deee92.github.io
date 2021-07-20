@@ -7,6 +7,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
 
 ### Courses
+- WASP Software Engineering and Cloud Computing
 - The Art of Doctoral Research
 - Basic Communication and Teaching
 - WASP Autonomous Systems II, Learning, Knowledge, Interaction, and Collaboration
