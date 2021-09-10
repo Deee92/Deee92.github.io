@@ -4,6 +4,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 
 ### Research projects
 - [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198)
+  - Appears in [IEEE Transactions on Reliability, 2021](https://ieeexplore.ieee.org/document/9526340)
   - [pankti](https://github.com/castor-software/pankti) on GitHub
 - [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
 
