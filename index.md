@@ -28,7 +28,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
 - Thesis supervisor
   - [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
-  - AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_
+  - [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
 
 ### More
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
