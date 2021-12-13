@@ -25,7 +25,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Supervisor
   - Master's thesis: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
   - Master's thesis: [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
-  - Research internship: [Test and mock generation, _Parsa Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
+  - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant
   - [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
   - [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
