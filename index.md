@@ -22,14 +22,15 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Modeling and Solving Combinatorial Problems with MiniZinc
 
 ### Teaching
+- Supervisor
+  - Master's thesis: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
+  - Master's thesis: [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
+  - Research internship: [Test and mock generation, _Parsa Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant
   - [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
   - [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
   - [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
   - [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
-- Thesis supervisor
-  - [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
-  - [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
 
 ### More
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
