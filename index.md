@@ -12,6 +12,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
 
 ### Courses
+- WASP Project Course
 - WASP Software Engineering and Cloud Computing
 - The Art of Doctoral Research
 - Basic Communication and Teaching
@@ -29,6 +30,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - Master's thesis: [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant
+  - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
   - [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
   - [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
   - [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
