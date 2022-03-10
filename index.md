@@ -39,8 +39,9 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 
 ### More
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
-- A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) I wrote about TestCon '19
-- A [poster](https://castor-software-days-2019.github.io/posters) I presented at CASTOR Software Days '19
+- A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) about TestCon '19
+- A [poster](https://castor-software-days-2019.github.io/posters) presented at CASTOR Software Days '19
+- A [poster](https://internal.wasp-sweden.org/wp-content/uploads/2022/01/WASP-2022-Poster-Catalogue-Software.pdf) prepared for the WASP Winter Conference '22
 - I sometimes update the following:
   - [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
   - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
