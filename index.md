@@ -6,6 +6,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [Harvesting Production GraphQL Queries to Detect Schema Faults, _L. Zetterlund, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2112.08267)
   - Appears in proceedings of the International Conference on Software Testing, Verification and Validation [(ICST), 2022](https://icst2022.vrain.upv.es/)
   - Teaser: [@icstconference](https://twitter.com/icstconference/status/1501625569871605760?s=20&t=8Xrh5d1AS-8pwXJb9-uwbA), [YouTube](https://youtu.be/3UrPDLDCfOE)
+  - Presentation: [YouTube](https://youtu.be/ZPx-QnqDXlQ)
 - [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198)
   - Appears in [IEEE Transactions on Reliability, 2021](https://ieeexplore.ieee.org/document/9526340)
   - [Presented](https://youtu.be/jdi9hwoDqng) at [SAST, 2021](https://sast.se/index.jsp)
