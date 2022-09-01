@@ -35,7 +35,6 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant
   - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
-  - [DD1362: Programming Paradigms](https://www.kth.se/student/kurser/kurs/DD1362)
   - [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
   - [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
   - [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
@@ -46,6 +45,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) about TestCon '19
 - A [poster](https://castor-software-days-2019.github.io/posters) presented at CASTOR Software Days '19
 - A [poster](https://internal.wasp-sweden.org/wp-content/uploads/2022/01/WASP-2022-Poster-Catalogue-Software.pdf) prepared for the WASP Winter Conference '22
+- A [poster](https://drive.google.com/file/d/1EuXuFWWdQK45aZQ-K5Ku_0jFfxN1otth/view?usp=sharing) presented at CASTOR Software Days '22
 - I sometimes update the following:
   - [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
   - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
