@@ -48,6 +48,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - A [poster](https://internal.wasp-sweden.org/wp-content/uploads/2022/01/WASP-2022-Poster-Catalogue-Software.pdf) prepared for the WASP Winter Conference '22
 - A [poster](https://drive.google.com/file/d/1EuXuFWWdQK45aZQ-K5Ku_0jFfxN1otth/view?usp=sharing) presented at CASTOR Software Days '22
 - I contributed material for a [course](https://osssc-edu.github.io/supply-chain.github.io/) on open-source software supply chains
+- I was involved in an [installation](https://rethread.art/projects/unfold.html) for the Nobel Week Lights '22
 - I sometimes update the following:
   - [Summaries of papers related to our research](https://github.com/Deee92/journal/tree/master/papers)
   - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
