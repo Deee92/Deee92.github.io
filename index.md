@@ -47,7 +47,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) about TestCon '19
 - A [poster](https://castor-software-days-2019.github.io/posters) presented at CASTOR Software Days '19
 - A [poster](https://internal.wasp-sweden.org/wp-content/uploads/2022/01/WASP-2022-Poster-Catalogue-Software.pdf) prepared for the WASP Winter Conference '22
-- A [poster](https://drive.google.com/file/d/1EuXuFWWdQK45aZQ-K5Ku_0jFfxN1otth/view?usp=sharing) presented at CASTOR Software Days '22
+- A [poster](https://internal.wasp-sweden.org/wasp-winter-conference-2023/poster-catalogue/) presented at CASTOR Software Days '22 and WASP Winter Conference '23
 - I contributed material for a [course](https://osssc-edu.github.io/supply-chain.github.io/) on open-source software supply chains
 - I was involved in an [installation](https://rethread.art/projects/unfold.html) for the Nobel Week Lights '22
 - I sometimes update the following:
