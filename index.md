@@ -5,6 +5,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 ### Research projects
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321)
   - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
+  - A short demo on [YouTube](https://youtu.be/ljuUfbC-IZw)
 - [Harvesting Production GraphQL Queries to Detect Schema Faults, _L. Zetterlund, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2112.08267)
   - Appears in proceedings of the International Conference on Software Testing, Verification and Validation [(ICST), 2022](https://ieeexplore.ieee.org/document/9787849)
   - Teaser: [@icstconference](https://twitter.com/icstconference/status/1501625569871605760?s=20&t=8Xrh5d1AS-8pwXJb9-uwbA), [YouTube](https://youtu.be/3UrPDLDCfOE)
