@@ -38,6 +38,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Supervisor
   - Master's thesis: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
   - Master's thesis: [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
+  - Master's thesis: [Behavioural comparison of test and field executions of video games, _C. Porion_](TBA)
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant
   - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
@@ -47,7 +48,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 
 ### More
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
-- I was the [most influential student volunteer](https://twitter.com/tanja_vos/status/1512347202148093961) for ICST '22
+- I was a student volunteer at  [ICST '23](https://twitter.com/neilwalkinshaw/status/1648375732060528640?s=20) and [ICST '22 :trophy:](https://twitter.com/tanja_vos/status/1512347202148093961)
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) about TestCon '19
 - A [poster](https://castor-software-days-2019.github.io/posters) presented at CASTOR Software Days '19
 - A [poster](https://internal.wasp-sweden.org/wp-content/uploads/2022/01/WASP-2022-Poster-Catalogue-Software.pdf) prepared for the WASP Winter Conference '22
