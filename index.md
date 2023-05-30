@@ -6,7 +6,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370)
   - [DepTrim](https://github.com/castor-software/deptrim) on GitHub
 - [RICK: Generating Mocks from Production Data, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2302.04547)
-  - Appears in the tool demonstrations track of the International Conference on Software Testing, Verification and Validation [(ICST), 2023](https://conf.researchr.org/track/icst-2023/icst-2023-tool-demos)
+  - Appears in the tool demonstrations track of the International Conference on Software Testing, Verification and Validation [(ICST), 2023](https://ieeexplore.ieee.org/abstract/document/10132166)
   - Demo: [YouTube](https://youtu.be/ljuUfbC-IZw)
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321)
   - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
