@@ -4,9 +4,10 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 
 ### Publications
 - [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680)
-  - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society)
+  - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society#event-overview)
 - [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370)
   - Appears in [IEEE Transactions on Software Engineering, 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+  - Appears in proceedings of the International Conference on Software Engineering, Journal-first track [(ICSE-JF), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers)
   - [DepTrim](https://github.com/castor-software/deptrim) on GitHub
 - [RICK: Generating Mocks from Production Data, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2302.04547)
   - Appears in the tool demonstrations track of the International Conference on Software Testing, Verification and Validation [(ICST), 2023](https://ieeexplore.ieee.org/abstract/document/10132166)
@@ -44,10 +45,11 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - Master's thesis: [Behavioural comparison of test and field executions of video games, _C. Porion_](TBA)
   - Master's thesis: [Subtree Hashing of Tests in Build Systems, _C. Capitanu_](TBA)
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
-- Teaching assistant
+- Teaching assistant 
   - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
   - [DD2480: Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480)
   - [DD2482: Automated Software Testing and DevOps](https://github.com/KTH/devops-course)
+  - [DD2485: Programmable Society](https://github.com/KTH/programmable-society)
   - [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
 
 ### More
