@@ -42,8 +42,8 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - Supervisor
   - Master's thesis: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
   - Master's thesis: [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
-  - Master's thesis: [Behavioural comparison of test and field executions of video games, _C. Porion_](TBA)
-  - Master's thesis: [Subtree Hashing of Tests in Build Systems, _C. Capitanu_](TBA)
+  - Master's thesis: [Behavioural comparison of test and field executions of video games, _C. Porion_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-330706)
+  - Master's thesis: [Subtree Hashing of Tests in Build Systems, _C. Capitanu_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-339831)
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant 
   - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
