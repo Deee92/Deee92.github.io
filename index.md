@@ -3,8 +3,9 @@
 I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
 
 ### Publications
-- [Generative AI to Generate Test Data Generators, B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
-Y. Liu, M. Monperrus, J. Ron, A. Silva, _**D. Tiwari**_](https://arxiv.org/abs/2401.17626)
+- [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
+Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626)
+  - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
 - [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680)
   - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society#event-overview)
 - [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370)
