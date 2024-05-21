@@ -3,6 +3,7 @@
 I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
 
 ### Publications
+- [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
 - [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
 Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626)
   - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
@@ -57,6 +58,7 @@ Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/24
 
 ### More
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
+- We spoke about software humor on the [German radio](https://www.deutschlandfunk.de/computer-und-kommunikation-4-5-2024-komplette-sendung-dlf-16492b03-100.html) 📻
 - I was a student volunteer at  [ICST '23](https://twitter.com/neilwalkinshaw/status/1648375732060528640?s=20) and [ICST '22 🏆](https://twitter.com/tanja_vos/status/1512347202148093961)
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) about TestCon '19
 - A [poster](https://castor-software-days-2019.github.io/posters) presented at CASTOR Software Days '19
