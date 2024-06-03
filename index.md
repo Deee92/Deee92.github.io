@@ -3,6 +3,7 @@
 I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
 
 ### Publications
+- [An Empirical Study of Bloated Dependencies in CommonJS Packages, _Y. Liu, **D. Tiwari**, C. Bogdan, B. Baudry_](https://arxiv.org/abs/2405.17939)
 - [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
 - [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
 Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626)
