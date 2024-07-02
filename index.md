@@ -3,13 +3,18 @@
 I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
 
 ### Publications
+- [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768)
+  - [proze](https://github.com/ASSERT-KTH/proze) on GitHub 
 - [An Empirical Study of Bloated Dependencies in CommonJS Packages, _Y. Liu, **D. Tiwari**, C. Bogdan, B. Baudry_](https://arxiv.org/abs/2405.17939)
+  - preprint on arXiv
 - [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
+  - preprint on arXiv
 - [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
 Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626)
+  - Appears in IEEE Software, special issue on Generative AI
   - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
 - [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680)
-  - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society#event-overview)
+  - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://dl.acm.org/doi/10.1145/3639475.3640099)
 - [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370)
   - Appears in [IEEE Transactions on Software Engineering, 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
   - Appears in proceedings of the International Conference on Software Engineering, Journal-first track [(ICSE-JF), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers)
@@ -30,6 +35,7 @@ Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/24
 - [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
 
 ### Courses
+- Communicating Research beyond the Academy
 - Visualize your Science
 - WASP Project Course
 - WASP Software Engineering and Cloud Computing
