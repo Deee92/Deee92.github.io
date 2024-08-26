@@ -3,36 +3,40 @@
 I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
 
 ### Publications
-- [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768)
-  - [proze](https://github.com/ASSERT-KTH/proze) on GitHub 
-- [An Empirical Study of Bloated Dependencies in CommonJS Packages, _Y. Liu, **D. Tiwari**, C. Bogdan, B. Baudry_](https://arxiv.org/abs/2405.17939)
-  - preprint on arXiv
-- [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
-  - preprint on arXiv
+- [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
+  - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](tbd)
+  - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
+- [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321), 2024
+  - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
+  - Under revision at IEEE Transactions on Software Engineering
 - [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
-Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626)
-  - Appears in IEEE Software, special issue on Generative AI
+Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626), 2024
+  - Appears in [IEEE Software, special issue on Generative AI](tbd)
   - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
-- [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680)
+- [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680), 2024
   - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://dl.acm.org/doi/10.1145/3639475.3640099)
-- [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370)
+- [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370), 2023
   - Appears in [IEEE Transactions on Software Engineering, 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
   - Appears in proceedings of the International Conference on Software Engineering, Journal-first track [(ICSE-JF), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers)
   - [DepTrim](https://github.com/castor-software/deptrim) on GitHub
-- [RICK: Generating Mocks from Production Data, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2302.04547)
+- [RICK: Generating Mocks from Production Data, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2302.04547), 2023
   - Appears in the tool demonstrations track of the International Conference on Software Testing, Verification and Validation [(ICST), 2023](https://ieeexplore.ieee.org/abstract/document/10132166)
   - Demo: [YouTube](https://youtu.be/ljuUfbC-IZw)
-- [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321)
-  - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
-- [Harvesting Production GraphQL Queries to Detect Schema Faults, _L. Zetterlund, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2112.08267)
+- [Harvesting Production GraphQL Queries to Detect Schema Faults, _L. Zetterlund, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2112.08267), 2022
   - Appears in proceedings of the International Conference on Software Testing, Verification and Validation [(ICST), 2022](https://ieeexplore.ieee.org/document/9787849)
   - Teaser: [@icstconference](https://twitter.com/icstconference/status/1501625569871605760?s=20&t=8Xrh5d1AS-8pwXJb9-uwbA), [YouTube](https://youtu.be/3UrPDLDCfOE)
   - Presentation: [YouTube](https://youtu.be/ZPx-QnqDXlQ)
-- [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198)
+- [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198), 2021
   - Appears in [IEEE Transactions on Reliability, 2021](https://ieeexplore.ieee.org/document/9526340)
   - [Presented](https://youtu.be/jdi9hwoDqng) at [SAST, 2021](https://sast.se/index.jsp), [ISSRE, 2023](https://issre.github.io/2023/program_j1c2.html)
   - [pankti](https://github.com/castor-software/pankti) on GitHub
 - [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
+  - preprint on arXiv
+- [An Empirical Study of Bloated Dependencies in CommonJS Packages, _Y. Liu, **D. Tiwari**, C. Bogdan, B. Baudry_](https://arxiv.org/abs/2405.17939)
+  - preprint on arXiv
+- [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
+  - preprint on arXiv
+
 
 ### Courses
 - Communicating Research beyond the Academy
