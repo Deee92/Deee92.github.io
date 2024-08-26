@@ -4,14 +4,13 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 
 ### Publications
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
-  - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](tbd)
+  - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/home/scam-2024)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321), 2024
   - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
-  - Under revision at IEEE Transactions on Software Engineering
-- [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu,
-Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626), 2024
-  - Appears in [IEEE Software, special issue on Generative AI](tbd)
+  - Under review at [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+- [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu, Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626), 2024
+  - Appears in [IEEE Software, special issue on Generative AI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52)
   - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
 - [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680), 2024
   - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://dl.acm.org/doi/10.1145/3639475.3640099)
@@ -70,6 +69,7 @@ Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/24
 ### More
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
 - We spoke about software humor on the [German radio](https://www.deutschlandfunk.de/computer-und-kommunikation-4-5-2024-komplette-sendung-dlf-16492b03-100.html) 📻
+- Our work on software humor was featured in the [KTH newsletter](https://www.kth.se/en/eecs/nyheter/humor-en-viktig-ingrediens-i-mjukvaruutveckling-1.1351788) 📰 
 - I was a student volunteer at  [ICST '23](https://twitter.com/neilwalkinshaw/status/1648375732060528640?s=20) and [ICST '22 🏆](https://twitter.com/tanja_vos/status/1512347202148093961)
 - A [post](https://deepikatiwari92.medium.com/takeaways-from-testcon-europe-2019-7fdc058631a7) about TestCon '19
 - A [poster](https://castor-software-days-2019.github.io/posters) presented at CASTOR Software Days '19
