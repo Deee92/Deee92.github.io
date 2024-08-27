@@ -3,7 +3,7 @@
 I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
 
 ### Publications
-#### [Google Scholar 🔗](https://scholar.google.com/citations?user=pyc0zC0AAAAJ&hl=en&oi=ao)
+##### [🔗 Google Scholar](https://scholar.google.com/citations?user=pyc0zC0AAAAJ&hl=en&oi=ao)
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
   - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/home/scam-2024)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
