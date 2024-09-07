@@ -8,8 +8,8 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/track/scam-2024/SCAM-2024-research-track)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321), 2024
+  - Appears in [IEEE Transactions on Software Engineering, 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
   - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
-  - Under minor revision at [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu, Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626), 2024
   - Appears in [IEEE Software, special issue on Generative AI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52)
   - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
