@@ -8,7 +8,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/track/scam-2024/SCAM-2024-research-track)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321), 2024
-  - Appears in [IEEE Transactions on Software Engineering, 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+  - Appears in [IEEE Transactions on Software Engineering, 2024](https://ieeexplore.ieee.org/document/10677447)
   - [RICK](https://github.com/castor-software/pankti#rick) on GitHub
 - [Generative AI to Generate Test Data Generators, _B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu, Y. Liu, M. Monperrus, J. Ron, A. Silva, **D. Tiwari**_](https://arxiv.org/abs/2401.17626), 2024
   - Appears in [IEEE Software, special issue on Generative AI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52)
@@ -16,7 +16,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680), 2024
   - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://dl.acm.org/doi/10.1145/3639475.3640099)
 - [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370), 2023
-  - Appears in [IEEE Transactions on Software Engineering, 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+  - Appears in [IEEE Transactions on Software Engineering, 2023](https://ieeexplore.ieee.org/document/10287851)
   - Appears in proceedings of the International Conference on Software Engineering, Journal-first track [(ICSE-JF), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers)
   - [DepTrim](https://github.com/castor-software/deptrim) on GitHub
 - [RICK: Generating Mocks from Production Data, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2302.04547), 2023
