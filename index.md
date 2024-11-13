@@ -5,7 +5,7 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 ### Publications
 ##### [🔗 Google Scholar](https://scholar.google.com/citations?user=pyc0zC0AAAAJ&hl=en&oi=ao)
 - [Augmenting Test Oracles with Production Observations, _**D. Tiwari**_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-356183)
-  - PhD thesis
+  - PhD thesis, 2024
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
   - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/track/scam-2024/SCAM-2024-research-track)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
