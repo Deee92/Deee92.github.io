@@ -1,11 +1,10 @@
-## Hey!
-
-I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat), supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/). My research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)), and focuses on monitoring software applications in production for the automated generation of tests.
+I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.se/) at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat). I hold a PhD in software testing from KTH Royal Institute of Technology. My PhD was supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/), and funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). I am excited about software quality, the automation of test oracles, and the software supply chain.
 
 ### Publications
 ##### [🔗 Google Scholar](https://scholar.google.com/citations?user=pyc0zC0AAAAJ&hl=en&oi=ao)
 - [Augmenting Test Oracles with Production Observations, _**D. Tiwari**_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-356183)
   - PhD thesis, 2024
+  - My thesis proposes techniques to complement in-house software tests with information from the field 
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
   - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/track/scam-2024/SCAM-2024-research-track)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
@@ -39,22 +38,6 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
 - [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
   - preprint on arXiv
 
-
-### Courses
-- Communicating Research beyond the Academy
-- Visualize your Science
-- WASP Project Course
-- WASP Software Engineering and Cloud Computing
-- The Art of Doctoral Research
-- Basic Communication and Teaching
-- WASP Autonomous Systems II, Learning, Knowledge, Interaction, and Collaboration
-- Computational Python
-- Introduction to High Performance Computing
-- Artificial Intelligence and Society: Legal, Ethical and Societal Aspects
-- WASP AI Summer School 2020, Modern Topics in Artificial Intelligence
-- WASP Autonomous Systems I, Sensing, Perception, Control, and Decision-making
-- Modeling and Solving Combinatorial Problems with MiniZinc
-
 ### Teaching
 - Supervisor
   - Master's thesis: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
@@ -85,5 +68,5 @@ I'm a PhD student at [KTH Royal Institute of Technology, Stockholm](https://www.
   - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
 
 ### Get in touch
-`deepikat@kth.se`
+`deepikat@kth.se` | [LinkedIn](https://www.linkedin.com/in/tiwarideepika/)
 
