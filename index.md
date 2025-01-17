@@ -1,4 +1,4 @@
-I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.se/) at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat). I hold a PhD in software testing from KTH Royal Institute of Technology. My PhD was supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/), and funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). I am excited about software quality, the automation of test oracles, and the software supply chain.
+I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.se/) at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat). I have a PhD in software testing from KTH Royal Institute of Technology. My PhD was supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/), and funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). I am excited about software quality, the automation of test oracles, and the software supply chain.
 
 ### Publications
 ##### [🔗 Google Scholar](https://scholar.google.com/citations?user=pyc0zC0AAAAJ&hl=en&oi=ao)
@@ -6,7 +6,7 @@ I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.
   - PhD thesis, 2024
   - My thesis proposes techniques to complement in-house software tests with information from the field 
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
-  - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://conf.researchr.org/track/scam-2024/SCAM-2024-research-track)
+  - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://ieeexplore.ieee.org/abstract/document/10795273/)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321), 2024
   - Appears in [IEEE Transactions on Software Engineering, 2024](https://ieeexplore.ieee.org/document/10677447)
