@@ -1,10 +1,16 @@
-I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.se/) at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat). I have a PhD in software testing from KTH Royal Institute of Technology. My PhD was supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/), and funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). I am excited about software quality, the automation of test oracles, and the software supply chain.
+### About
+
+I am an AI Solutions Engineer at [System Verification](https://systemverification.com/en/), working at the intersection of software testing and generative AI. I was previously a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.se/) at [KTH Royal Institute of Technology, Stockholm](https://www.kth.se/profile/deepikat). I have a PhD in software testing from KTH Royal Institute of Technology. My PhD was supervised by Professors [Benoit Baudry](https://softwarediversity.eu/) and [Martin Monperrus](https://www.monperrus.net/martin/), and funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). I am excited about software quality, the automation of test oracles, as well as the software supply chain.
 
 ### Publications
+
 ##### [🔗 Google Scholar](https://scholar.google.com/citations?user=pyc0zC0AAAAJ&hl=en&oi=ao)
+
 - [Augmenting Test Oracles with Production Observations, _**D. Tiwari**_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-356183)
   - PhD thesis, 2024
-  - My thesis proposes techniques to complement in-house software tests with information from the field 
+  - My thesis proposes techniques to complement in-house software tests with information from the field
+- [UPPERCASE IS ALL YOU NEED, _V. Andersson, B. Baudry, S. Bobadilla, L. Christensen, S. Cofano, K. Etemadi, L. Raphina, M. Monperrus, F. R. García, J. R. Arteaga, A. Sharma, **D Tiwari**, T. Toady_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-287271)
+  - Appears in [SIGBOVIK 2025](https://sigbovik.org/2025/proceedings.pdf)
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
   - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://ieeexplore.ieee.org/abstract/document/10795273/)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
@@ -39,11 +45,13 @@ I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.
   - preprint on arXiv
 
 ### Teaching
+
 - Supervisor
   - Master's thesis: [A study of Pseudo-tested Methods in an Android Continuous Integration Environment, _J. Kvarnefalk_](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1468320&dswid=-6068)
   - Master's thesis: [AutoGraphQL: An automatic test generation tool for GraphQL, _L. Zetterlund_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1601868)
   - Master's thesis: [Behavioural comparison of test and field executions of video games, _C. Porion_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-330706)
   - Master's thesis: [Subtree Hashing of Tests in Build Systems, _C. Capitanu_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-339831)
+  - Master's thesis: [Mutation Testing in Video Games, _T. Mattsson_](TBD)
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant 
   - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
@@ -53,6 +61,7 @@ I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.
   - [WASP Software Engineering and Cloud Computing](https://wasp-sweden.org/graduate-school/as-graduate-school-courses/)
 
 ### More
+
 - We often organize [Meetups](https://www.meetup.com/KTH-Software-Research-Meetup/) about software research
 - We spoke about software humor on the [German radio](https://www.deutschlandfunk.de/computer-und-kommunikation-4-5-2024-komplette-sendung-dlf-16492b03-100.html) 📻
 - Our work on software humor was featured in the [KTH newsletter](https://www.kth.se/en/eecs/nyheter/humor-en-viktig-ingrediens-i-mjukvaruutveckling-1.1351788) 📰 
@@ -68,5 +77,4 @@ I am a post-doctoral researcher in the [CHAINS project](https://chains.proj.kth.
   - [A list of free and open resources for learning](https://github.com/Deee92/journal/blob/master/resources/free.md)
 
 ### Get in touch
-`deepikat@kth.se` | [LinkedIn](https://www.linkedin.com/in/tiwarideepika/)
-
+`deepika.tiwari@systemverification.com` | [LinkedIn](https://www.linkedin.com/in/tiwarideepika/)
