@@ -9,10 +9,12 @@ I am an AI Solutions Engineer at [System Verification](https://systemverificatio
 - [Augmenting Test Oracles with Production Observations, _**D. Tiwari**_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-356183)
   - PhD thesis, 2024
   - My thesis proposes techniques to complement in-house software tests with information from the field
+- [The Design Space of Lockfiles Across Package Managers, _Y. Gamage, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2505.04834)
+  - preprint on arXiv
 - [UPPERCASE IS ALL YOU NEED, _V. Andersson, B. Baudry, S. Bobadilla, L. Christensen, S. Cofano, K. Etemadi, L. Raphina, M. Monperrus, F. R. García, J. R. Arteaga, A. Sharma, **D Tiwari**, T. Toady_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-287271)
-  - Appears in [SIGBOVIK 2025](https://sigbovik.org/2025/proceedings.pdf)
+  - Appears in the proceedings of [SIGBOVIK 2025](https://sigbovik.org/2025/proceedings.pdf)
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
-  - Appears in proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://ieeexplore.ieee.org/abstract/document/10795273/)
+  - Appears in the proceedings of the International Conference on Source Code Analysis and Manipulation [(SCAM), 2024](https://ieeexplore.ieee.org/abstract/document/10795273/)
   - [proze](https://github.com/ASSERT-KTH/proze) on GitHub
 - [Mimicking Production Behavior with Generated Mocks, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2208.01321), 2024
   - Appears in [IEEE Transactions on Software Engineering, 2024](https://ieeexplore.ieee.org/document/10677447)
@@ -21,16 +23,16 @@ I am an AI Solutions Engineer at [System Verification](https://systemverificatio
   - Appears in [IEEE Software, special issue on Generative AI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52)
   - [lollm](https://github.com/ASSERT-KTH/lollm) on GitHub
 - [With Great Humor Comes Great Developer Engagement, _**D. Tiwari**, T. Toady, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2312.01680), 2024
-  - Appears in proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://dl.acm.org/doi/10.1145/3639475.3640099)
+  - Appears in the proceedings of the International Conference on Software Engineering, Software Engineering in Society track [(ICSE-SEIS), 2024](https://dl.acm.org/doi/10.1145/3639475.3640099)
 - [Automatic Specialization of Third-Party Java Dependencies, _C. Soto-Valero, **D. Tiwari**, T. Toady, B. Baudry_](https://arxiv.org/abs/2302.08370), 2023
   - Appears in [IEEE Transactions on Software Engineering, 2023](https://ieeexplore.ieee.org/document/10287851)
-  - Appears in proceedings of the International Conference on Software Engineering, Journal-first track [(ICSE-JF), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers)
+  - Appears in the proceedings of the International Conference on Software Engineering, Journal-first track [(ICSE-JF), 2024](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers)
   - [DepTrim](https://github.com/castor-software/deptrim) on GitHub
 - [RICK: Generating Mocks from Production Data, _**D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2302.04547), 2023
   - Appears in the tool demonstrations track of the International Conference on Software Testing, Verification and Validation [(ICST), 2023](https://ieeexplore.ieee.org/abstract/document/10132166)
   - Demo: [YouTube](https://youtu.be/ljuUfbC-IZw)
 - [Harvesting Production GraphQL Queries to Detect Schema Faults, _L. Zetterlund, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2112.08267), 2022
-  - Appears in proceedings of the International Conference on Software Testing, Verification and Validation [(ICST), 2022](https://ieeexplore.ieee.org/document/9787849)
+  - Appears in the proceedings of the International Conference on Software Testing, Verification and Validation [(ICST), 2022](https://ieeexplore.ieee.org/document/9787849)
   - Teaser: [@icstconference](https://twitter.com/icstconference/status/1501625569871605760?s=20&t=8Xrh5d1AS-8pwXJb9-uwbA), [YouTube](https://youtu.be/3UrPDLDCfOE)
   - Presentation: [YouTube](https://youtu.be/ZPx-QnqDXlQ)
 - [Production Monitoring to Improve Test Suites, _**D. Tiwari**, L. Zhang, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2012.01198), 2021
