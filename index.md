@@ -9,8 +9,8 @@ I am an AI Solutions Engineer at [System Verification](https://systemverificatio
 - [Augmenting Test Oracles with Production Observations, _**D. Tiwari**_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-356183)
   - PhD thesis, 2024
   - My thesis proposes techniques to complement in-house software tests with information from the field
-- [The Design Space of Lockfiles Across Package Managers, _Y. Gamage, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2505.04834)
-  - preprint on arXiv
+- [Detecting and Removing Bloated Dependencies in CommonJS Packages, _Y. Liu, **D. Tiwari**, C. Bogdan, B. Baudry_](https://arxiv.org/abs/2405.17939)
+  - Appears in [Journal of Systems and Software, 2025](https://www.sciencedirect.com/science/article/pii/S0164121225001773)
 - [UPPERCASE IS ALL YOU NEED, _V. Andersson, B. Baudry, S. Bobadilla, L. Christensen, S. Cofano, K. Etemadi, L. Raphina, M. Monperrus, F. R. García, J. R. Arteaga, A. Sharma, **D Tiwari**, T. Toady_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-287271)
   - Appears in the proceedings of [SIGBOVIK 2025](https://sigbovik.org/2025/proceedings.pdf)
 - [PROZE: Generating Parameterized Unit Tests Informed by Runtime Data, _**D. Tiwari**, Y. Gamage, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2407.00768), 2024
@@ -39,11 +39,11 @@ I am an AI Solutions Engineer at [System Verification](https://systemverificatio
   - Appears in [IEEE Transactions on Reliability, 2021](https://ieeexplore.ieee.org/document/9526340)
   - [Presented](https://youtu.be/jdi9hwoDqng) at [SAST, 2021](https://sast.se/index.jsp), [ISSRE, 2023](https://issre.github.io/2023/program_j1c2.html)
   - [pankti](https://github.com/castor-software/pankti) on GitHub
-- [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
-  - preprint on arXiv
-- [An Empirical Study of Bloated Dependencies in CommonJS Packages, _Y. Liu, **D. Tiwari**, C. Bogdan, B. Baudry_](https://arxiv.org/abs/2405.17939)
-  - preprint on arXiv
 - [Serializing Java Objects in Plain Code, _J. Wachter, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2405.11294)
+  - preprint on arXiv
+- [The Design Space of Lockfiles Across Package Managers, _Y. Gamage, **D. Tiwari**, M. Monperrus, B. Baudry_](https://arxiv.org/abs/2505.04834)
+  - preprint on arXiv
+- [Automatic Observability for Dockerized Java Applications, _L. Zhang, **D. Tiwari**, B. Morin, B. Baudry, M. Monperrus_](https://arxiv.org/abs/1912.06914)
   - preprint on arXiv
 
 ### Teaching
@@ -54,6 +54,7 @@ I am an AI Solutions Engineer at [System Verification](https://systemverificatio
   - Master's thesis: [Behavioural comparison of test and field executions of video games, _C. Porion_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-330706)
   - Master's thesis: [Subtree Hashing of Tests in Build Systems, _C. Capitanu_](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-339831)
   - Master's thesis: [Mutation Testing in Video Games, _T. Mattsson_](TBD)
+  - Master's thesis: [Automated Generation of Visual Regression Tests Through State Exploration, _C. Johnsson_](TBD)
   - Research internship: [Test and mock generation, _P. Azimi_](https://github.com/Parsa-azm/Test-and-Mock-Generation)
 - Teaching assistant 
   - [DA2210: Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://www.kth.se/student/kurser/kurs/DA2210)
